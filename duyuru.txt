@@ -1,1 +1,1 @@
-- Yeni Güncelleme İşlendi 1.1
+- BİLGİ: Kullanıcılar 50'den Fazla Yanlış Key Deneme Girişiminde Bulunurlarsa Sistem Otomatik Olarak Engelliyor.
